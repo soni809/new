@@ -1,0 +1,11 @@
+email,utm
+a@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "Android" } }
+b@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "Android" } }
+c@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "iOS" } }
+d@a.com,{ "utmParams": { "utmSource": "etinsure", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "Android" } }
+e@a.com,{ "utmParams": { "utmSource": "etinsure", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "Android" } }
+f@a.com,{ "utmParams": { "utmSource": "etinsure", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "iOS" } }
+g@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test2", "utmTerm": "", "utmContent": "", "userAgent": "Android" } }
+h@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test2", "utmTerm": "", "utmContent": "", "userAgent": "Chrome" } }
+i@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test2", "utmTerm": "", "utmContent": "", "userAgent": "Firefox" } }
+j@a.com,{ "utmParams": { "utmSource": "etmoney", "utmMedium": "app", "utmCampaign": "test1", "utmTerm": "", "utmContent": "", "userAgent": "iOS" } }
