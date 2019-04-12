@@ -1,0 +1,8 @@
+hi
+hello
+this
+is
+my
+new
+merge
+file
