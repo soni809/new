@@ -1,8 +1,1 @@
-hi
-hello
-this
-is
-my
-new
-merge
-file
+some content to add in merge file
