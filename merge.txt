@@ -1,3 +1,0 @@
-this is some content to coflict
-content to append
-some content to add in merge file
