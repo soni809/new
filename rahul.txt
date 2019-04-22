@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+hello this is rahul
+
+hello this is ravi
+=======
+hello this is rohit
+>>>>>>> release/1/2
