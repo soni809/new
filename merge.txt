@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello this file is for conflict
 content to append into file
+=======
+diffrent content to merge later
+>>>>>>> new_branch
